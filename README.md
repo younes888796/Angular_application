@@ -19,8 +19,7 @@ This applicaion is a about manage customers of bank by adding customers , modify
   <strong><h4>2️⃣ <a href="#">Dashboard Dark Mode</a></h4></strong>
 </div>
 
-![Capture2](![Dashboard_Dark_mode](https://user-images.githubusercontent.com/127496533/227136732-8fd2d06b-3fcd-4454-9dfc-771aad843207.PNG))
-
+![Dashboard_Dark_mode](https://user-images.githubusercontent.com/127496533/227137971-09d01949-30bd-4bf2-ab54-a82a5a2e5542.PNG)
 <div>
   <strong><h4>3️⃣ <a href="#">List Customers</a></h4></strong>
 </div>
