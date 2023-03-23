@@ -3,8 +3,7 @@
 </div>
 
 ## ⚡️ Description : 
-This applicaion is a about manage customers of bank by adding customers , modify theier information ...
-
+This application is about managing bank customers by adding customers and modifying their information.
 
 
 ## ⭐ Features
