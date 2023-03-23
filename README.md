@@ -3,7 +3,7 @@
 </div>
 
 ## ⚡️ Description : 
-This application is about managing bank customers by adding customers and modifying their information.
+This application is about managing bank customers by adding customers and modifying their information and you can add multiple account to one customer
 
 
 ## ⭐ Features
