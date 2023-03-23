@@ -1,0 +1,15 @@
+ <div class="mx-auto px-4 py-4 sm:px-8 lg:container">   W
+  <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-4">  
+    <!-- Dual Card -->
+     <div nft-dual-card [nft]="nft[0]" class="md:col-span-2"></div>   
+    <!-- end Dual Card -->
+    <!-- Single Card -->
+      <div nft-single-card [nft]="nft[1]" [customer]="customerHighestBalance"></div>    
+    <!-- end Single Card -->
+    <!-- Single Card -->
+      <div nft-single-card [nft]="nft[2]" [customer]="customerLowestBalance"></div>    
+    <!-- end Single Card -->W
+    <!-- Auctions Table -->
+    <div nft-auctions-table class="md:col-span-4 xl:col-span-4"></div>  
+   </div>  
+ </div>   
