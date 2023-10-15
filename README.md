@@ -11,47 +11,50 @@ This application is about managing bank customers by adding customers and modify
   <strong><h4>1️⃣ <a href="#">Dashboard</a></h4></strong>
 </div>
 
-![Capture1](https://user-images.githubusercontent.com/127496533/227136181-869536d5-4d37-4f80-a5a6-8bb9d8650119.PNG)
+ ![Capture2](https://github.com/younesseelhoub/Angular_application/assets/127496533/68bac72f-cf7d-4a12-8dd6-7ec1f52bcbdc)
+
 
 
 <div>
   <strong><h4>2️⃣ <a href="#">Dashboard Dark Mode</a></h4></strong>
 </div>
+![Capture6](https://github.com/younesseelhoub/Angular_application/assets/127496533/09c4d74b-8b15-4d6d-b2ce-c94ad6b97ca8)
 
-![Dashboard_Dark_mode](https://user-images.githubusercontent.com/127496533/227137971-09d01949-30bd-4bf2-ab54-a82a5a2e5542.PNG)
-<div>
+
+
+ <div>
   <strong><h4>3️⃣ <a href="#">List Customers</a></h4></strong>
 </div>
 
-![List_Customers](https://user-images.githubusercontent.com/127496533/227136897-f70fa54b-a485-4b4a-b8fd-d8970e5b755b.PNG)
+ ![Capture](https://github.com/younesseelhoub/Angular_application/assets/127496533/3ab6c392-7945-4e54-84cf-972d3476bc28)
 
 
 <div>
   <strong><h4>4️⃣ <a href="#">List Customers Dark Mode</a></h4></strong>
 </div>
 
-![LIst_Customer_Dark](https://user-images.githubusercontent.com/127496533/227137025-126499f4-74e3-4550-9a9b-87f4c132ff21.PNG)
+ ![Capture5](https://github.com/younesseelhoub/Angular_application/assets/127496533/7c66b657-8bc8-4b45-9297-06b660944b77)
 
 
 <div>
   <strong><h4>5️⃣ <a href="#">Detail Customer</a></h4></strong>
 </div>
 
-![Detail_Customer](https://user-images.githubusercontent.com/127496533/227137114-094393dc-bfb3-407e-b585-112326d302e1.PNG)
+ ![Capture7](https://github.com/younesseelhoub/Angular_application/assets/127496533/edf2e240-856d-4058-8ff4-ba623cbe889c)
 
 
 <div>
   <strong><h4>6️⃣ <a href="#">Update Customer</a></h4></strong>
 </div>
 
+![Capture8](https://github.com/younesseelhoub/Angular_application/assets/127496533/d4d91354-b335-44e7-bd84-54b552ba0a87)
 
-![Update_Customer](https://user-images.githubusercontent.com/127496533/227137183-35254088-3acc-4d07-920a-3b9c869d9489.PNG)
-
+ 
 <div>
   <strong><h4>7️⃣ <a href="#">Add Customer</a></h4></strong>
 </div>
 
-![Add_One_Account](https://user-images.githubusercontent.com/127496533/227137256-4169e8a2-1122-4b2b-ad8e-e671adc5ee2e.PNG)
+ ![Capture4](https://github.com/younesseelhoub/Angular_application/assets/127496533/2ad9c19e-c5f0-415d-8895-ba69059b4052)
 
 
 
